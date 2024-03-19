@@ -30,7 +30,7 @@ Here are some examples of the model's instance segmentation and classification o
 
 ## Usage
 
-Detailed instructions on setting up the environment, training the model, and running inference can be found in the [installation guide](path/to/your/installation_guide.md) and [usage documentation](path/to/your/usage_documentation.md).
+Detailed instructions on setting up the environment, training the model, and running inference can be found in the [usage documentation](docs/help.rst).
 
 ## Contribution
 
