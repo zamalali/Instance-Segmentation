@@ -24,14 +24,11 @@ The model was trained using Detectron2 on a dataset of 480 images, labeled for v
 
 Here are some examples of the model's instance segmentation and classification outputs:
 
-![Waste Item Segmentation](path/to/your/image1.jpg "Waste Item Segmentation")
-*Fig 1: Instance segmentation of waste items.*
+![Waste Item Segmentation](images/1.png "Waste Item Segmentation")
+![Correct Bin Classification](images/2.png "Correct Bin Classification")
 
-![Correct Bin Classification](path/to/your/image2.jpg "Correct Bin Classification")
-*Fig 2: Classification and assignment to correct bins.*
+![Model in Action](images/3.png "Model in Action")
 
-![Model in Action](path/to/your/image3.jpg "Model in Action")
-*Fig 3: Real-world application scenario.*
 
 ## Usage
 
@@ -39,7 +36,7 @@ Detailed instructions on setting up the environment, training the model, and run
 
 ## Contribution
 
-We welcome contributions from the community, whether it's in the form of bug reports, improvements, documentation, or new features. Please refer to our [contribution guidelines](path/to/your/contribution_guidelines.md) for more information.
+We welcome contributions from the community, whether it's in the form of bug reports, improvements, documentation, or new features.
 
 ## License
 
