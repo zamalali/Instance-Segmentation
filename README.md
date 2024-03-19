@@ -24,7 +24,7 @@ The model was trained using Detectron2 on a dataset of 480 images, labeled for v
 
 ## Visualization
 
-Here are some examples of the model's instance segmentation and classification outputs:
+Here are some end result of the model's instance segmentation and classification outputs:
 
 ![Correct Bin Classification](images/5.png "Correct Bin Classification")
 ![Model in Action](images/3.png "Model in Action")
