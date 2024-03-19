@@ -2,6 +2,8 @@
 
 This project leverages the power of Detectron2, a state-of-the-art object detection and instance segmentation framework by Facebook AI Research (FAIR), to accurately classify and segment waste items into predefined categories based on the color of dustbins they belong to. Our model has been meticulously trained to recognize various types of waste, such as paper, cardboard, plastics, and biodegradables, and to assign them to the correct recycling bins, promoting efficient waste management and recycling processes.
 
+![Correct Bin Classification](images/2.png "Correct Bin Classification")
+
 ## Overview
 
 With the growing concern for environmental sustainability, proper waste sorting and recycling become imperative. This project introduces a deep learning-based approach to automate the classification and segmentation of waste items, facilitating their correct disposal and recycling. Our model is trained on a custom dataset comprising 480 high-quality images of various waste items, utilizing Detectron2 for accurate instance segmentation.
@@ -24,7 +26,7 @@ The model was trained using Detectron2 on a dataset of 480 images, labeled for v
 
 Here are some examples of the model's instance segmentation and classification outputs:
 
-![Correct Bin Classification](images/2.png "Correct Bin Classification")
+![Correct Bin Classification](images/5.png "Correct Bin Classification")
 ![Model in Action](images/3.png "Model in Action")
 
 
